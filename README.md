@@ -1,6 +1,6 @@
 # Casa Domòtica Educativa
 
-Casa Domòtica Educativa <img src="Imatges/UnderConstruction.png" width="50" />
+Casa Domòtica Educativa en construcció <img src="Imatges/UnderConstruction.png" width="50" />
 
 <img src="Imatges/IMG_20200816_234822_996.jpg" width="400" />
 
