@@ -16,10 +16,12 @@ Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Smart-Hom
 
 STL per imprimir [aquí](https://github.com/maynej/Smart-Home/tree/main/STL_SMARTHOME).
 
-## Casa 3D
+## Casa 3D (EN CONSTRUCCIO !!)
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
+
+EN CONSTRUCCIO !!
 
 ## Llicència
 
