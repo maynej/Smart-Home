@@ -1,16 +1,16 @@
 # Casa Domòtica Educativa
 
-Casa Domòtica Educativa <img src="Smart-Home/imatges/UnderConstruction.png" width="50" />
+Casa Domòtica Educativa <img src="Smart-Home/UnderConstruction.png" width="50" />
 
-<img src="Smart-Home//imatges/IMG_20200816_234822_996.jpg" width="200" />
+<img src="Smart-Home/IMG_20200816_234822_996.jpg" width="200" />
 
-Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Smart-Home//imatges/Logo3senseFons.png" width="50" />
+Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Smart-Home/imatges/Logo3senseFons.png" width="50" />
 
 L'objectiu es construir un parc mediambiental educatiu on estiguin representats espais del nostre entorn on vivim, arbres, hort, riu... i una casa sostenible aplicant la domòtica, gestionant el medi ambient i mesurant paràmetres de la natura.
 
 En aquest Github mostraré només la Casa domòtica
 
-<img src="Smart-Home//imatges/MVIMG_20220114_194909_492.jpg" width="200" />
+<img src="Smart-Home/imatges/MVIMG_20220114_194909_492.jpg" width="200" />
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Smart-Home/tree/main/Doc).
 
@@ -28,5 +28,5 @@ Suport Sensor HC-SR04 |![](ImatgesEscornabot/SensorDistancia.png) | [HC-SR04 Sim
 
 ## Llicència
 
-Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="ImatgesEscornabot/CC.png" width="100" />
+Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
