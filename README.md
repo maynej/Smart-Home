@@ -14,7 +14,7 @@ En aquest Github mostraré només la Casa domòtica
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Smart-Home/tree/main/Doc).
 
-STL per imprimir [aquí](https://github.com/maynej/Smart-Home/STL_SMART-Home).
+STL per imprimir [aquí](https://github.com/maynej/tree/main/Smart-Home/STL_SMART-Home).
 
 ## Casa 3D
   
