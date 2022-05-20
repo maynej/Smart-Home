@@ -22,6 +22,7 @@ STL per imprimir [aquí](https://github.com/maynej/Smart-Home/tree/main/STL_SMAR
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
+Aire condiconat |
 
 EN CONSTRUCCIO !!
 
