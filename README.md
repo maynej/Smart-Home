@@ -12,7 +12,9 @@ En aquest Github mostraré només la Casa domòtica
 
 <img src="Imatges/MVIMG_20220114_194909_492.jpg" width="400" />
 
-Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Smart-Home/tree/main/DOC).
+Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Smart-Home/tree/main/DOC). També en llengua castellana.
+
+Un vídeo del muntatge de l'estructura de la casa el podreu trobar en la carpeta [Vídeos] (https://github.com/maynej/Smart-Home/tree/main/Videos)
 
 STL per imprimir [aquí](https://github.com/maynej/Smart-Home/tree/main/STL_SMARTHOME).
 
