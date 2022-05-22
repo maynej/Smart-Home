@@ -18,20 +18,34 @@ Un vídeo del muntatge de l'estructura de la casa el podreu trobar en la carpeta
 
 STL per imprimir [aquí](https://github.com/maynej/Smart-Home/tree/main/STL_SMARTHOME).
 
-## Casa 3D (EN CONSTRUCCIO !!)
+## Casa 3D 
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Parets |![](Imatges/Paret.png) | [Parets](Casa/Parets)
-Finestres |![](Imatges/Finestra.png) | [Finestres](Casa/Finestres)
-Portes |![](Imatges/Portes.png) | [Portes](Casa/Portes)
-Ascensor |![](Imatges/Ascensor.png) | [Ascensor](Casa/Ascensor)
-Teulades |![](Imatges/Teulades.png) | [Teulades](Casa/Teulada)
-Voreres |![](Imatges/Voreres.png) | [Voreres](Casa/Parets)
-Aire Condicionat |![](Imatges/Aire.png) | [Aire Condicionat](Casa/AireCondicionat)
-Pati |![](Imatges/Pati.png) | [Pati](Casa/Pati)
-Mobiliari |![](Imatges/Mobiliari.png) | [Mobiliari](Casa/Mobiliari)
+Parets |![](Imatges/Parets.png) | [Parets](STL_SMARTHOME/Casa/Parets)
+Finestres |![](Imatges/Finestra.png) | [Finestres](STL_SMARTHOME/Casa/Finestres)
+Portes |![](Imatges/Portes.png) | [Portes](STL_SMARTHOME/Casa/Portes)
+Ascensor |![](Imatges/Ascensor.png) | [Ascensor](STL_SMARTHOME/Casa/Ascensor)
+Teulades |![](Imatges/Teulades.png) | [Teulades](STL_SMARTHOME/Casa/Teulada)
+Voreres |![](Imatges/Voreres.png) | [Voreres](STL_SMARTHOME/Casa/Vorera)
+Aire Condicionat |![](Imatges/Aire.png) | [Aire Condicionat](STL_SMARTHOME/Casa/AireCondicionat)
+Pati |![](Imatges/Pati.png) | [Pati](STL_SMARTHOME/Casa/Pati)
 
+## Garatge
+
+Descripció         | Imatge          | Arxiu         
+------------- | ------------- | ------------- 
+Mobiliari |![](Imatges/Mobiliari.png) | [Mobiliari](STL_SMARTHOME/Casa/Mobiliari)
+
+## Garatge
+
+Descripció         | Imatge          | Arxiu         
+------------- | ------------- | ------------- 
+
+## Jardi
+
+Descripció         | Imatge          | Arxiu         
+------------- | ------------- | ------------- 
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
