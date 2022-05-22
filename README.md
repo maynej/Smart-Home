@@ -28,7 +28,7 @@ Portes |![](Imatges/Portes.png) | [Portes](STL_SMARTHOME/Casa/Portes)
 Ascensor |![](Imatges/16.png) | [Ascensor](STL_SMARTHOME/Casa/Ascensor)
 Teulades |![](Imatges/Frontal.png) ![](Imatges/Trassera.png) | [Teulades](STL_SMARTHOME/Casa/Teulada)
 Voreres |![](Imatges/Voreres.png) | [Voreres](STL_SMARTHOME/Casa/Vorera)
-Aire Condicionat |![](Imatges/AireCondicionat.png) | [Aire Condicionat](STL_SMARTHOME/Casa/AireCondicionat)
+Aire Condicionat |![](Imatges/AireCondiconat.png) | [Aire Condicionat](STL_SMARTHOME/Casa/AireCondicionat)
 Pati |![](Imatges/Pati.png) | [Pati](STL_SMARTHOME/Casa/Pati)
 
 ## Garatge
