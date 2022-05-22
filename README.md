@@ -8,8 +8,6 @@ Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Stud
 
 L'objectiu es construir un parc mediambiental educatiu on estiguin representats espais del nostre entorn on vivim, arbres, hort, riu... i una casa sostenible aplicant la domòtica, gestionant el medi ambient i mesurant paràmetres de la natura.
 
-En aquest Github mostraré només la Casa domòtica
-
 <img src="Imatges/MVIMG_20220114_194909_492.jpg" width="400" />
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Smart-Home/tree/main/DOC). També en llengua castellana.
