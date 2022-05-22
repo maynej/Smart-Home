@@ -35,7 +35,7 @@ Pati |![](Imatges/Pati.png) | [Pati](STL_SMARTHOME/Casa/Pati)
 
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Mobiliari |![](Imatges/Mobiliari.jpg) | [Mobiliari](STL_SMARTHOME/Casa/Mobiliari)
+Mobiliari |![](Imatges/Mobiliari.png) | [Mobiliari](STL_SMARTHOME/Casa/Mobiliari)
 
 ## Garatge
 
