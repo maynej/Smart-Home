@@ -23,7 +23,7 @@ STL per imprimir [aquí](https://github.com/maynej/Smart-Home/tree/main/STL_SMAR
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
 Parets |![](Imatges/Parets.png) | [Parets](STL_SMARTHOME/Casa/Parets)
-Finestres |![](Imatges/Finestres.png) | [Finestres](STL_SMARTHOME/Casa/Finestres)
+Finestres |![](Imatges/Finestres.jpg) | [Finestres](STL_SMARTHOME/Casa/Finestres)
 Portes |![](Imatges/Portes.png) | [Portes](STL_SMARTHOME/Casa/Portes)
 Ascensor |![](Imatges/16.png) | [Ascensor](STL_SMARTHOME/Casa/Ascensor)
 Teulades |![](Imatges/Frontal.png) ![](Imatges/Trassera.png) | [Teulades](STL_SMARTHOME/Casa/Teulada)
@@ -35,7 +35,7 @@ Pati |![](Imatges/Pati.png) | [Pati](STL_SMARTHOME/Casa/Pati)
 
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Mobiliari |![](Imatges/Mobiliari.png) | [Mobiliari](STL_SMARTHOME/Casa/Mobiliari)
+Mobiliari |![](Imatges/Mobiliari.jpg) | [Mobiliari](STL_SMARTHOME/Casa/Mobiliari)
 
 ## Garatge
 
