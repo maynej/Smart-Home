@@ -12,7 +12,7 @@ L'objectiu es construir un parc mediambiental educatiu on estiguin representats 
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Smart-Home/tree/main/DOC). També en llengua castellana.
 
-Un vídeo del muntatge de l'estructura de la casa el podreu trobar en la carpeta [Vídeos] (https://github.com/maynej/Smart-Home/tree/main/Videos)
+Un vídeo del muntatge de l'estructura de la casa el podreu trobar en la carpeta [Vídeos](https://github.com/maynej/Smart-Home/tree/main/Videos)
 
 STL per imprimir [aquí](https://github.com/maynej/Smart-Home/tree/main/STL_SMARTHOME).
 
@@ -39,7 +39,7 @@ Mobiliari |![](Imatges/Mobiliari.png) | [Mobiliari](STL_SMARTHOME/Casa/Mobiliari
 
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Garatge |![](Imatges/MaquetaGaratge.png) width="50" | [Gara  tge](STL_SMARTHOME/Garatge)
+Garatge |![](Imatges/MaquetaGaratge.png) width="50"/ | [Gara  tge](STL_SMARTHOME/Garatge)
 
 ## Jardi (en contrucciò)
 
