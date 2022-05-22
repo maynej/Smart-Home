@@ -22,7 +22,7 @@ STL per imprimir [aquí](https://github.com/maynej/Smart-Home/tree/main/STL_SMAR
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Parets |![](Imatges/Parets.png) | [Parets](STL_SMARTHOME/Casa/Parets)
+Parets |![](Imatges/MaquetaCasa.png) | [Parets](STL_SMARTHOME/Casa/Parets)
 Finestres |![](Imatges/Finestra.png) | [Finestres](STL_SMARTHOME/Casa/Finestres)
 Portes |![](Imatges/Portes.png) | [Portes](STL_SMARTHOME/Casa/Portes)
 Ascensor |![](Imatges/16.png) | [Ascensor](STL_SMARTHOME/Casa/Ascensor)
