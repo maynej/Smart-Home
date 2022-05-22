@@ -39,11 +39,14 @@ Mobiliari |![](Imatges/Mobiliari.png) | [Mobiliari](STL_SMARTHOME/Casa/Mobiliari
 
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
+Garatge |![](Imatges/Garatge.png) | [Gara  tge](STL_SMARTHOME/Garatge)
 
-## Jardi
+## Jardi (en contrucciò)
 
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
+Generador Eòlic |![](Imatges/GeneradorEolic.png) | [GeneradorEolic](STL_SMARTHOME/Jardi/GeneradorEolic)
+Seguidor Solar |![](Imatges/SeguidorSolar.png) | [SeguidorSolar](STL_SMARTHOME/Jardi/SeguidorSolar)
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
