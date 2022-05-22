@@ -22,11 +22,16 @@ STL per imprimir [aquí](https://github.com/maynej/Smart-Home/tree/main/STL_SMAR
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Aire condiconat |
+Parets |![](Imatges/Paret.png) | [Parets](Casa/Parets)
+Finestres |![](Imatges/Finestra.png) | [Finestres](Casa/Finestres)
+Portes |![](Imatges/Portes.png) | [Portes](Casa/Portes)
+Ascensor |![](Imatges/Ascensor.png) | [Ascensor](Casa/Ascensor)
+Teulades |![](Imatges/Teulades.png) | [Teulades](Casa/Teulada)
+Voreres |![](Imatges/Voreres.png) | [Voreres](Casa/Parets)
+Aire Condicionat |![](Imatges/Aire.png) | [Aire Condicionat](Casa/AireCondicionat)
+Pati |![](Imatges/Pati.png) | [Pati](Casa/Pati)
+Mobiliari |![](Imatges/Mobiliari.png) | [Mobiliari](Casa/Mobiliari)
 
-EN CONSTRUCCIO !!
-
-## Llicència
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
