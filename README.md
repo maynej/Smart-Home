@@ -1,10 +1,10 @@
 # Parc Mediambiental i Casa Domòtica Educativa
 
-# Parc Mediambiental en construcció <img src="Imatges/UnderConstruction.png" width="50" />
+Parc Mediambiental en construcció <img src="Imatges/UnderConstruction.png" width="50" />
 
 <img src="Imatges/Parc.png" width="400" />
 
-# Casa Domòtica
+Casa Domòtica
 
 <img src="Imatges/MVIMG_20220114_194909_492.jpg" width="400" /> <img src="Imatges/IMG_20200816_234822_996.jpg" width="400" />
 
@@ -26,7 +26,7 @@ Parets |![](Imatges/Parets.png) | [Parets](STL_SMARTHOME/Casa/Parets)
 Finestres |![](Imatges/Finestra.png) | [Finestres](STL_SMARTHOME/Casa/Finestres)
 Portes |![](Imatges/Portes.png) | [Portes](STL_SMARTHOME/Casa/Portes)
 Ascensor |![](Imatges/16.png) | [Ascensor](STL_SMARTHOME/Casa/Ascensor)
-Teulades |![](Imatges/Teulades.png) | [Teulades](STL_SMARTHOME/Casa/Teulada)
+Teulades |![](Imatges/21.png) (Imatges/22.png) | [Teulades](STL_SMARTHOME/Casa/Teulada)
 Voreres |![](Imatges/Voreres.png) | [Voreres](STL_SMARTHOME/Casa/Vorera)
 Aire Condicionat |![](Imatges/AireCondicionat.png) | [Aire Condicionat](STL_SMARTHOME/Casa/AireCondicionat)
 Pati |![](Imatges/Pati.png) | [Pati](STL_SMARTHOME/Casa/Pati)
