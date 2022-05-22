@@ -39,7 +39,7 @@ Mobiliari |![](Imatges/Mobiliari.png) | [Mobiliari](STL_SMARTHOME/Casa/Mobiliari
 
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Garatge |![](Imatges/MaquetaGaratge.png) width="50"/ | [Gara  tge](STL_SMARTHOME/Garatge)
+Garatge |![](Imatges/MaquetaGaratge.png width="50") | [Garatge](STL_SMARTHOME/Garatge)
 
 ## Jardi (en contrucciò)
 
