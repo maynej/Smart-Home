@@ -2,7 +2,7 @@
 
 Parc Mediambiental en construcció <img src="Imatges/UnderConstruction.png" width="50" />
 
-<img src="Imatges/MotorWedo.jpg" width="400" />
+<img src="Imatges/Parc.jpg" width="400" />
 
 Casa Domòtica
 
